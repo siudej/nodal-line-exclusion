@@ -1,0 +1,140 @@
+Number of entries:  11591
+Smallest diagonal element in LDL':  263553955.468
+Ratio largest/smallest :   727.862841611
+Number of entries in L :  17145
+Permutation :  [3048 2781 1966 ..., 3191 3197 2946]
+
+
+umber of entries:  13549
+Smallest diagonal element in LDL':  3847076185.48
+Ratio largest/smallest :   45.1481408021
+Number of entries in L :  20606
+Permutation :  [3494 3487 3322 ..., 3486 3493  926]
+
+
+Number of entries:  15035
+Smallest diagonal element in LDL':  156056690.758
+Ratio largest/smallest :   1229.24002817
+Number of entries in L :  23763
+Permutation :  [3852 3845 3806 ..., 3851 3908 3805]
+
+
+Number of entries:  12771
+Smallest diagonal element in LDL':  139486301.544
+Ratio largest/smallest :   1375.26860216
+Number of entries in L :  19195
+Permutation :  [2820 1743 1744 ..., 3391 3398 1764]
+
+
+Number of entries:  15487
+Smallest diagonal element in LDL':  2113265187.45
+Ratio largest/smallest :   88.9812049034
+Number of entries in L :  25643
+Permutation :  [1319 1301 1181 ..., 1495 1516  146]
+
+
+Number of entries:  12010
+Smallest diagonal element in LDL':  912275974.032
+Ratio largest/smallest :   192.496202636
+Number of entries in L :  17634
+Permutation :  [3157 2072 2081 ..., 3213 3238 2063]
+
+
+Number of entries:  14460
+Smallest diagonal element in LDL':  93394221.552
+Ratio largest/smallest :   2053.9935743
+Number of entries in L :  23045
+Permutation :  [3332 3079 2999 ..., 3873 3896 3215]
+
+
+Number of entries:  12029
+Smallest diagonal element in LDL':  58100850.5443
+Ratio largest/smallest :   3613.95612324
+Number of entries in L :  17643
+Permutation :  [2326 2216 2017 ..., 3013 3065 1840]
+
+
+Number of entries:  14680
+Smallest diagonal element in LDL':  373884699.943
+Ratio largest/smallest :   513.075637954
+Number of entries in L :  23357
+Permutation :  [3758 3458 2257 ..., 3797 3801  477]
+
+
+Number of entries:  11897
+Smallest diagonal element in LDL':  760136708.955
+Ratio largest/smallest :   276.231791093
+Number of entries in L :  17365
+Permutation :  [2326 1983 1958 ..., 3279 3286 3020]
+
+
+Number of entries:  14916
+Smallest diagonal element in LDL':  33452623.047
+Ratio largest/smallest :   5734.41223653
+Number of entries in L :  24078
+Permutation :  [4040 3980 3683 ..., 4039 4057 2356]
+
+
+Number of entries:  11038
+Smallest diagonal element in LDL':  343822207.904
+Ratio largest/smallest :   610.704950882
+Number of entries in L :  16120
+Permutation :  [2895 2815 2735 ..., 2896 2915 1696]
+
+
+Number of entries:  14602
+Smallest diagonal element in LDL':  29902349.0053
+Ratio largest/smallest :   6415.25289235
+Number of entries in L :  23461
+Permutation :  [3954 3894 3598 ..., 3953 3971 2376]
+
+
+Number of entries:  11907
+Smallest diagonal element in LDL':  105216730.181
+Ratio largest/smallest :   1995.63248382
+Number of entries in L :  17520
+Permutation :  [3280 2017 2026 ..., 3220 3282 1737]
+
+
+Number of entries:  14438
+Smallest diagonal element in LDL':  17734294.2036
+Ratio largest/smallest :   10816.9588675
+Number of entries in L :  22921
+Permutation :  [3343 2344 2154 ..., 3955 3976 3226]
+
+
+Number of entries:  11602
+Smallest diagonal element in LDL':  390139742.628
+Ratio largest/smallest :   538.201832952
+Number of entries in L :  17083
+Permutation :  [2999 2958 2073 ..., 3018 3020 2959]
+
+
+Number of entries:  14603
+Smallest diagonal element in LDL':  913849037.315
+Ratio largest/smallest :   209.915558382
+Number of entries in L :  23313
+Permutation :  [3775 3723 3730 ..., 3776 3797 3717]
+
+
+Number of entries:  11634
+Smallest diagonal element in LDL':  217531041.237
+Ratio largest/smallest :   881.856354173
+Number of entries in L :  17253
+Permutation :  [2266 2156 1957 ..., 2929 2981 1780]
+
+
+Number of entries:  14486
+Smallest diagonal element in LDL':  939054957.807
+Ratio largest/smallest :   223.601316243
+Number of entries in L :  22994
+Permutation :  [3922 3862 3704 ..., 3921 3939 1016]
+
+
+Number of entries:  11591
+Smallest diagonal element in LDL':  263553955.468
+Ratio largest/smallest :   727.862841611
+Number of entries in L :  17145
+Permutation :  [3048 2781 1966 ..., 3191 3197 2946]
+
+
