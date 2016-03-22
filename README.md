@@ -1,5 +1,5 @@
 ## [Nearly radial Neumann eigenfunctions on symmetric domains](http://arxiv.org/abs/1508.07019)
-Collecion of script developed by Bartek Siudeja and Ben Young for the paper by Nilima Nigam, Bartek Siudeja and Ben Young (linked above). A separate set of Matlab scripts was developed by Nilima.
+Collecion of scripts developed by Bartek Siudeja and Ben Young for the paper by Nilima Nigam, Bartek Siudeja and Ben Young (linked above). A separate set of Matlab scripts was developed by Nilima.
 
 Most of the scripts are written in Python with [FEniCS](http://fenicsproject.org) ver. 1.4 as the major prerequisite (**these do not work with ver. 1.6+**). 
 
